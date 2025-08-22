@@ -5,8 +5,6 @@
 
 ---
 
-**From:** Ivan Spoljaric  
-**To:** Mykola Povshednyi, Dmytro Povarchuk, Denys Shkramko, Andrii Bereznyi  
 **Subject:** Unique Opportunity - SBOM Workflows Challenge  
 
 ---
@@ -15,7 +13,6 @@
 
 Dear Team,
 
-Dear Mykola Povshednyi Dmytro Povarchuk Denys Shkramko Andrii Bereznyi
 
 I hope everything is going well =))
 
