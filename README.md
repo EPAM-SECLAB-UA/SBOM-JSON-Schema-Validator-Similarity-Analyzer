@@ -1,7 +1,9 @@
 # SBOM-JSON-Schema-Validator-Similarity-Analyzer
 
 
-# SBOM Validator - Project Overview
+
+
+## SBOM Validator - Project Overview
 
 ## 🎯 What is this project
 
