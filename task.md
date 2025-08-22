@@ -49,9 +49,6 @@ Please send your solution by **Friday** to me, Ivan Spoljaric, and Myroslava Str
 ### **Deliverable**
 We expect just one artifact from you - a **Python file**.
 
-### **Recipients**
-- Ivan Spoljaric
-- Myroslava Stremetska
 
 ---
 
