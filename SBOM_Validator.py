@@ -20,7 +20,7 @@ Dual Implementation Strategy
 - Advanced anomaly detection and data quality scoring
 - Ideal for enterprise environments requiring deep analysis
 
-Author: Developer
+Author: Vitalii Shevchuk
 Date: August 2025
 """
 
